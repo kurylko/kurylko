@@ -12,7 +12,7 @@
 - **Other:** Git
 
 ### 
-- :computer: My page on on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
+- :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
 
