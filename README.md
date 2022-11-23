@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Web Development 
-:computer: My page on on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
+- 🌱 I’m currently learning Web Development 
+- :computer: My page on on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 <!--
 **kurylko/kurylko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
