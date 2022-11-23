@@ -1,7 +1,19 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Web Development 
+
+### 
 - :computer: My page on on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
+
+### Skills
+
+- Programming Languages: JavaScript
+- Frontend Development: React, ViteJS, CSS3, SASS, HTML5
+- Backend Development: Node.JS, Express
+- Database: MySQL
+- Software: Figma, Postman
+- Other: Git
+
 
 <!--
 **kurylko/kurylko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
