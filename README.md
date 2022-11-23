@@ -11,7 +11,7 @@
 - **Software:** Figma, Postman
 - **Other:** Git
 
-### 
+### Now I'm working on students projects and looking for Business Development activities
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
