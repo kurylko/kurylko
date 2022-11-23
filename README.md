@@ -2,17 +2,19 @@
 
 - 🌱 I’m currently learning Web Development 
 
+### ✅ My Skills
+
+- **Programming Languages:** JavaScript
+- **Frontend Development:** React, ViteJS, CSS3, SASS, HTML5
+- **Backend Development:** Node.JS, Express
+- **Database:** MySQL
+- **Software:** Figma, Postman
+- **Other:** Git
+
 ### 
 - :computer: My page on on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
-### Skills
 
-- Programming Languages: JavaScript
-- Frontend Development: React, ViteJS, CSS3, SASS, HTML5
-- Backend Development: Node.JS, Express
-- Database: MySQL
-- Software: Figma, Postman
-- Other: Git
 
 
 <!--
