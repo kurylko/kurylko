@@ -15,6 +15,7 @@
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
+- ⚔️ Fan of [Code Wars](https://www.codewars.com/users/kurylko)
 
 
 <!--
