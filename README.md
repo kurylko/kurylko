@@ -7,7 +7,7 @@
 - **Programming Languages:** JavaScript
 - **Frontend Development:** React, Next.JS, Vite, CSS3, SASS, HTML5
 - **Backend Development:** Node.JS, Express
-- **Database:** MySQL
+- **Database:** MySQL, Firebase
 - **Software:** Figma, Postman
 - **Other:** Git
 
