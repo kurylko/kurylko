@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development 
+- 🌱 Junior Web Developer
 
 ### ✅ My Skills
 
