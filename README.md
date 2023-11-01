@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm a Junior Web Developer
+🌱 I'm a Junior Software Developer
 
 ### ✅ My Skills
 
