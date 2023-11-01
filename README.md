@@ -11,7 +11,7 @@
 - **Software:** Figma, Postman
 - **Other:** Git
 
-### Now I'm working on :mortar_board: students projects and looking for Business Development activities :briefcase:
+### Now I'm working on :mortar_board: as an Intern and looking for Business Development activities :briefcase:
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
