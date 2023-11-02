@@ -11,7 +11,7 @@
 - **Software:** Figma, Postman
 - **Other:** Git
 
-### Now I'm working as an Intern and looking for Business Development activities :briefcase:
+### Intern looking for Business Development activities :briefcase:
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
