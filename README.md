@@ -8,7 +8,7 @@
 - **Frontend Development:** React.js, Redux, SASS, Next.js, Vite, CSS3, HTML5, Material UI  &&  🐦 Flutter
 - **Backend Development:** Node.JS, Express
 - **Database:** MySQL, PostgreSQL, Firebase
-- **Software:** Figma, Postman
+- **Software:** Figma, Postman, Docker
 - **Other:** Git
 
 ### Intern looking for Business Development activities :briefcase:
