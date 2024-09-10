@@ -11,7 +11,7 @@
 - **Software:** Figma, Postman, Docker
 - **Other:** Git
 
-### Intern looking for Business Development activities :briefcase:
+### Intern looking for Frontend Development job :briefcase:
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
 
