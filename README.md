@@ -5,7 +5,7 @@
 ### ✅ My Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Dart
-- **Frontend Development:** React.js, Next.js, Redux, SASS, Vite, CSS3, HTML5, Material UI, Flutter
+- **Frontend Development:** React.js, Next.js, Vite, Redux, SASS, CSS3, HTML5, Material UI, daisyUI, Tailwind CSS, Flutter
 - **Backend Development:** Node.JS, Express
 - **Database:** MySQL, PostgreSQL, Firebase
 - **Software:** Figma, Postman, Docker
