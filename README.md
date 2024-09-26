@@ -8,6 +8,7 @@
 - **Frontend Development:** React.js, Next.js, Vite, Redux, SASS, CSS3, HTML5, Material UI, daisyUI, Tailwind CSS, Flutter
 - **Backend Development:** Node.JS, Express
 - **Database:** MySQL, PostgreSQL, Firebase
+- **Testing:** Cypress
 - **Software:** Figma, Postman, Docker
 - **Other:** Git
 
