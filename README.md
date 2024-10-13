@@ -10,7 +10,7 @@
 - **Database:** MySQL, PostgreSQL, Firebase, MongoDB
 - **Testing:** Cypress
 - **Software:** Figma, Postman, Docker
-- **Other:** Git
+- **DevTools:** Git
 
 ### Intern looking for Frontend Development job :briefcase:
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
