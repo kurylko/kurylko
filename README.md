@@ -4,13 +4,13 @@
 
 ### ✅ My Skills
 
-- **Programming Languages:** JavaScript, TypeScript, Dart
+- **Programming Languages:** JavaScript, TypeScript, Dart, C#
 - **Frontend Development:** React.js, Next.js, Vite, Redux Toolkit, TanStack Query, SASS, CSS3, HTML5, Material UI, Tailwind CSS, Flutter
-- **Backend Development:** Node.JS, Express, GraphQL, Bun, Elysia.js
+- **Backend Development:** Node.JS, Express, GraphQL, Bun, Elysia.js, .Net
 - **Database:** MySQL, PostgreSQL, Firebase, MongoDB
-- **Testing:** Cypress
+- **Testing:** Cypress, jest, vitest
 - **Software:** Figma, Postman, Docker
-- **DevTools:** Git
+- **DevTools:** Git, Azure
 
 - :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/valeriya-kurilko/)
 
