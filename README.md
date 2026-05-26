@@ -6,7 +6,7 @@
 
 - **Programming Languages:** JavaScript, TypeScript, Dart, C#
 - **Frontend Development:** React.js, Next.js, Vite, Redux Toolkit, TanStack Query, SASS, CSS3, HTML5, Material UI, Tailwind CSS, Flutter
-- **Backend Development:** Node.JS, Express, GraphQL, Bun, Elysia.js, .Net
+- **Backend Development:** Node.JS, Express, GraphQL, Bun, Elysia.js, .Net, ASP.NET, SignalR
 - **Database:** MySQL, PostgreSQL, Firebase, MongoDB
 - **Testing:** Cypress, jest, vitest
 - **Software:** Figma, Postman, Docker
